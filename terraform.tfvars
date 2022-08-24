@@ -1,0 +1,5 @@
+account_number = "000064837547"
+vpc_cidr       = "10.0.1.0/16"
+region         = "eu-west-1"
+identifier     = "dev"
+stage          = "dev"
